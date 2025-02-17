@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.quickbites.entities.User;
-import com.quickbites.repository.UserRepository;
+
 import com.quickbites.service.UserService;
 
 @RestController
