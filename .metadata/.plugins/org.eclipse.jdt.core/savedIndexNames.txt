@@ -7,7 +7,6 @@ INDEX VERSION 1.134+C:\Users\abhis\OneDrive\Desktop\CDAC_PROJECT\QuickBites\.met
 3925570021.index
 3113689109.index
 3314791799.index
-1920074654.index
 1510117266.index
 992747224.index
 3334782977.index
